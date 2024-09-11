@@ -21,7 +21,7 @@ int main()
         cin >> a;
         cout << "Выберите треугольник" << endl;
         cin >> i;
-        switch (a)
+        switch (b)
         {
         case 1:
             PT::Perc(pt, i);
